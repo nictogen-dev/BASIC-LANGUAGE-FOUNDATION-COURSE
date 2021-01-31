@@ -1,0 +1,21 @@
+body{
+				background-color:#40f5ff;
+				text-align: center;
+}
+body h1{
+				margin: 10px 0px 10px 0px;
+				font-family: "Times New Roman",Times,Serif;
+				}
+header{
+				margin: 50px 0px 80px 0px;
+}
+body h4{
+				margin: 100px 0px 40px 0px;
+				font: 20px;
+				font-family:"Cursive" , bold;
+}
+body h3{
+    font:small-caps bold 20px/30px Georgia, serif;
+    font-family: "Times New Roman",Times,Serif;
+}
+
